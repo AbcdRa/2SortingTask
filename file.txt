@@ -1,0 +1,3 @@
+5 KCl 41
+5 BaSO4 70
+5 NaHSO4 87
